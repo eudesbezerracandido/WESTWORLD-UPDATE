@@ -18,7 +18,7 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3053187c33525bbd2c9860a024cf1ee01a1d769b$nome=WESTWORLD EP.6</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a953e7779c8de37cb31a3d3afdaa6fea7bed8986$nome=WESTWORLD EP.7</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:99d42a04ca3e90d397908bbac98f6a5d5f8871a1$nome=WESTWORLD EP.8</link>
-<thumbnail>https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/mv5bmtrmyznmotctzjmwos00odzllwjizgqtndg5ndy5nje3mtczxkeyxkfqcgdeqxvymdm2ndm2mqatat-v1-1-1587400003.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/qzri6QJvL7lG5Rir98cXwkjWK1y.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Após as insurgências das máquinas, Dolores consegue escapar de Westworld com os núcleos de alguns outros anfitriões, incluindo o de Bernard. Vivendo numa Los Angeles futurista, em 2058, ela cria um relacionamento com Caleb (Aaron Paul), e começa a entender como os seres artificiais são tratados no mundo real. Enquanto isso, Maeve (Thandie Newton) se encontra presa em outra parte do parque Delos, um baseado na Itália fascista durante a Segunda Guerra Mundial.</info>
 </item>
